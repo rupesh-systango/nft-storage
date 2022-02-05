@@ -1,0 +1,5 @@
+api key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweGM5MTM1MzQzRjJkNDQwMkY2NmY1YTdBYjgxN2M5Mjk4Njk4MUZmM0YiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY0Mzk4NDUwOTA1MiwibmFtZSI6IlRlc3QgMSJ9.ah9jRuUZXXIXduc718emSGihETgKawB_Far5ZmSX3KY" 
+
+external doc = https://github.com/nftstorage/nft.storage/tree/main/packages/client/examples/node.js
+
+api docs = "https://nft.storage/api-docs/"
